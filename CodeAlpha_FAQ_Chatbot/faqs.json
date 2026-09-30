@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What are your shipping options and delivery times?",
+    "answer": "We offer Standard Shipping (5-7 business days, $5.99) and Express Shipping (2-3 business days, $14.99). Orders over $50 ship free with Standard Shipping."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you'll receive an email with a tracking number. You can also track your order anytime by logging into your account and visiting the 'Order History' page."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any unopened or defective item within 30 days of delivery for a full refund. Live plants must be reported within 48 hours of arrival with photos to qualify for a replacement or refund."
+  },
+  {
+    "question": "How do I care for a newly arrived plant?",
+    "answer": "Unpack your plant immediately, water it lightly if the soil is dry, and place it in indirect sunlight for the first week to let it acclimate before moving it to its permanent spot."
+  },
+  {
+    "question": "Do you ship plants internationally?",
+    "answer": "Currently we only ship within the continental United States due to agricultural import restrictions on live plants in other countries."
+  },
+  {
+    "question": "How often should I water my succulent?",
+    "answer": "Succulents prefer infrequent watering. Water deeply only when the top 2 inches of soil are completely dry, which is usually once every 1-2 weeks depending on humidity and light."
+  },
+  {
+    "question": "My plant arrived with yellow leaves, what should I do?",
+    "answer": "A few yellow leaves during transit is normal and not a cause for concern. Simply trim them off. If more than a third of the leaves are yellow, contact our support team with photos within 48 hours for a replacement."
+  },
+  {
+    "question": "Can I cancel or change my order after placing it?",
+    "answer": "Orders can be modified or cancelled within 1 hour of purchase by contacting support. After that window, the order enters processing and cannot be changed."
+  },
+  {
+    "question": "Do you offer gift wrapping or gift cards?",
+    "answer": "Yes! You can add gift wrapping for $3.99 at checkout, and digital gift cards are available in denominations from $25 to $200 on our Gift Cards page."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards, PayPal, Apple Pay, and Google Pay. All payments are processed securely and we never store your card details."
+  },
+  {
+    "question": "How do I know how much light my plant needs?",
+    "answer": "Each product page lists a light requirement: Low, Medium, or Bright Indirect. As a rule of thumb, if you can read comfortably without a lamp near a window, that spot usually counts as bright indirect light."
+  },
+  {
+    "question": "Is it normal for a new plant to drop some leaves?",
+    "answer": "Yes, mild leaf drop after shipping is a normal stress response. Keep the plant in stable conditions with consistent light and watering, and it should recover and produce new growth within a few weeks."
+  },
+  {
+    "question": "Do you offer a plant care guarantee?",
+    "answer": "We offer a 30-day guarantee on all plants. If your plant doesn't survive within 30 days despite following our care instructions, we'll replace it free of charge or issue a refund."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our support team via live chat on our website (9am-6pm EST, Mon-Fri), email at support@example.com, or by phone at 1-800-555-0199."
+  },
+  {
+    "question": "Why are the leaves on my plant turning brown at the tips?",
+    "answer": "Brown leaf tips are usually caused by low humidity, tap water minerals, or underwatering. Try using filtered water and misting the leaves, or move the plant away from heating vents."
+  },
+  {
+    "question": "Do you sell pots and planters separately?",
+    "answer": "Yes, we have a wide selection of ceramic, terracotta, and self-watering pots available in our Planters section, in sizes ranging from 4 inches to 16 inches in diameter."
+  },
+  {
+    "question": "What should I do if my package arrives damaged?",
+    "answer": "Please take photos of the damaged packaging and plant, and contact support within 48 hours. We'll arrange a free replacement or full refund right away."
+  },
+  {
+    "question": "How do I repot my plant?",
+    "answer": "Choose a pot 1-2 inches larger in diameter than the current one, add fresh well-draining soil, gently loosen the roots, place the plant in the center, and fill in around it with soil, watering lightly after."
+  },
+  {
+    "question": "Are your plants pet-friendly?",
+    "answer": "Each product page includes a 'Pet Friendly' badge for non-toxic plants. You can also filter the shop by 'Pet Safe' to browse only plants that are safe for cats and dogs."
+  },
+  {
+    "question": "Do you have a loyalty or rewards program?",
+    "answer": "Yes, our Green Rewards program gives you 1 point per dollar spent, redeemable for discounts. You also earn a free plant after every 10 orders."
+  }
+]
